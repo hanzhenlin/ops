@@ -1,0 +1,3 @@
+Jsdelivr-CDN
+利用jsdelivr进行静态文件的cdn加速服务
+请在后台CDN加速域名里填写
