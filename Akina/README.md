@@ -6,4 +6,5 @@ https://blog.itmuster.com/
 
 请在后台CDN加速域名里填写
 https://cdn.jsdelivr.net/gh/hanzhenlin/Jsdelivr-CDN@master/Akina/4.0.1
+
 4.0.1为主题版本号，根据实际填写。
