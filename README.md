@@ -14,7 +14,7 @@
 ### 订阅地址「懒人必备」 
 * [mature.txt](https://cdn.jsdelivr.net/gh/hanzhenlin/ops@main/live/mature.txt)
 * [aptv.txt](https://cdn.jsdelivr.net/gh/hanzhenlin/ops@main/live/aptv.txt)
-* [tvbox.txt](https://cdn.jsdelivr.net/gh/hanzhenlin/ops@main/live/tvbox.txt)
+* [tvbox.json](https://cdn.jsdelivr.net/gh/hanzhenlin/ops@main/live/tvbox.json)
 
 
 ### 直播集合「一切随缘」  
